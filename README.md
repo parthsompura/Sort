@@ -21,3 +21,28 @@ The output is a permutation (reordering) of the input.
 ```
 
 ![Sort](sort.gif)
+
+```java
+switch(ch)
+		{
+			case 1:
+				BinarySort(a,n);
+				break;
+			case 2:
+				SelectionSort(a,n);
+				break;
+			case 3:
+				InsertionSort(a,n);
+				break;
+			case 4:
+				int start=0;
+				int end=n-1;
+				QuickSort(a,start,end);
+				print(a,n);
+				break;
+			case 5:
+				MergeSort(a,n);
+				print(a,n);	
+				break;
+		}
+```    
