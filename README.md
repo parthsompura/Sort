@@ -19,3 +19,5 @@ A sorting algorithm is an algorithm made up of a series of instructions that tak
 The output is in nondecreasing order.
 The output is a permutation (reordering) of the input.
 ```
+
+![Sort](sort.gif)
