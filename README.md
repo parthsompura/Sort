@@ -46,3 +46,11 @@ switch(ch)
 				break;
 		}
 ```    
+You can select any algorithm from the list and then enter an array which would get sorted through the selected algorithm.
+
+### Execution
+To compile the code, simply run the ```javac Sort.java```. To run the code, type ```java Sort```
+```
+javac Sort.java
+java Sort
+```
