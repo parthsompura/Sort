@@ -1,4 +1,4 @@
-# Sorting Algorithms
+# Sorting Algorithms    [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
 Bubble Sort, Selection Sort, Insertion Sort, Merge Sort &amp; Quick Sort
 This code helps you to understand the different Sorting algorithms. The sorting algorithms depicted in this code are:
 
